@@ -1,1 +1,4 @@
 FlowChart/
+node_modules/
+.parcel-cache/
+dist/
